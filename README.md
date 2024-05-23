@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Antoniosilva010
+- 👀 temho interesse em dinheiro
+- 🌱 estou aprendendo programação
+- 🎶 gosto de ouvir musica 
+- 📫 gosto de futebol
+- 😄 Pronouns: tonny
+- ⚡ 24/08/2007
+- 🤦‍♂️ alura: https://cursos.alura.com.br/dashboard
+- 😒 p5js: https://editor.p5js.org/
